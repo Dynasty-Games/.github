@@ -1,5 +1,9 @@
 ## Dynasty Games
 
+Dynasty Games is the only web3 daily fantasy markets & sports platform in the market. We have created a whole new way of playing daily fantasy by verifying all data on chain at a contests start and end times. 
+
+What sets us apart from the market leaders is we have the only global platform AND our in game contract sends 70% of all contest fees to DFM staking pools!
+
 <!--
 
 **Here are some ideas to get you started:**
